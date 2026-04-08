@@ -1,2 +1,3 @@
 # Learn-To-Code-1
-Learn To Code 1 Project
+
+This is a project to track my progress with swift playgrounds Leran to Code 1
